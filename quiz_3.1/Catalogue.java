@@ -1,5 +1,14 @@
 import javax.swing.JOptionPane;
 
+/*
+
+    Name: Benauro, Pascual Bernard T.
+    Course and Section: ITE 012 / IT12S1
+    Date: 10 - 11 - 2024
+    Topic: Quiz 3.1 Selection Control Structure
+
+ */
+
 public class Catalogue {
     public static void main(String[] args) {
         
